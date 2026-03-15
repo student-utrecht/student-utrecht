@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi! I'm Zeb, a first-year Computer Science student at the University of Utrecht.
+Hi! I'm Zeb, a first-year Computer Science student at [the University of Utrecht](https://www.uu.nl/), specializing in Game Technology. I love exploring the world of programming, and I’m particularly interested in C++, but I also enjoy working with Javascript, Python, PHP, SQL and many other languages listed below.
+
+Before university, I completed my VWO at Sint Michael College, where I began experimenting with coding projects, including creating Minecraft mods. I’m passionate about building projects that are both fun and challenging, and I’m always eager to learn new technologies.
+
+Outside of coding, I’m a big fan of Dungeons & Dragons and open-world video games. I love diving into creative worlds, whether they’re in games or code.
+
+I’m excited to grow as a developer and contribute to interesting projects here on GitHub!
 
 
 ## 🌐 Socials:
